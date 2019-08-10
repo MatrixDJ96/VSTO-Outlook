@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = ".NET Framework Utility", "NET Framework Utility\NET Framework Utility.vcxproj", "{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTO Outlook AddIn", "VSTO Outlook AddIn\VSTO Outlook AddIn.csproj", "{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSTO Outlook Installer", "VSTO Outlook Installer\VSTO Outlook Installer.csproj", "{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|Any CPU.Build.0 = Debug|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|x64.ActiveCfg = Debug|x64
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|x64.Build.0 = Debug|x64
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|x86.ActiveCfg = Debug|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Debug|x86.Build.0 = Debug|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|Any CPU.ActiveCfg = Release|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|Any CPU.Build.0 = Release|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|x64.ActiveCfg = Release|x64
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|x64.Build.0 = Release|x64
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|x86.ActiveCfg = Release|Win32
+		{72C6F78F-2C0C-43F5-9CFC-5CF052089AC0}.Release|x86.Build.0 = Release|Win32
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|x64.Build.0 = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|x64.ActiveCfg = Release|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|x64.Build.0 = Release|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{CE5A8905-BFAC-437B-BEE9-8A17FFD110BB}.Release|x86.Build.0 = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|x64.Build.0 = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|x64.ActiveCfg = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|x64.Build.0 = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9A3FBC6-7385-4AF8-8CF5-7745AF763721}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E395D91-A2AC-48FC-82D4-D59AFD51AA75}
+	EndGlobalSection
+EndGlobal
